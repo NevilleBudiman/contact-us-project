@@ -1,0 +1,7 @@
+{
+  "username": "postgres",
+  "password": "new-dev#98",
+  "database": "contact-us",
+  "host": "db",
+  "dialect": "postgres"
+}
